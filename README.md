@@ -1,2 +1,8 @@
-# fython
-Persian-based programming language powered by Python
+# Fython
+
+اولین زبان برنامه‌نویسی فارسی‌محور بر پایه پایتون  
+کدنویسی با واژگان فارسی، قابل نصب، قابل اجرا
+
+## نصب
+```bash
+pip install fython
