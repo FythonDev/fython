@@ -6,7 +6,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     description="Persian-based programming language powered by Python",
-    author="AM1R_SHAH",
+    author="aQa_PeTeR",
     author_email="fython.project@gmail.com",
     url="https://github.com/FythonDev/fython",
     classifiers=[
