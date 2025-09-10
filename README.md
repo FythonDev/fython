@@ -1,4 +1,4 @@
-**Fython**
+**parspy**
 
 اولین زبان برنامه‌نویسی فارسی‌محور بر پایه پایتون  
 کدنویسی با واژگان فارسی، قابل نصب، قابل اجرا
@@ -8,7 +8,7 @@
 📦 نصب
 
 ```bash
-pip install fython
+pip install parspy
 ```
 
 ---
@@ -16,16 +16,16 @@ pip install fython
 🚀 اجرا
 
 ```python
-from fython.engine import run
+from parspy.engine import run
 
-run(open("examples/salam_donya.fy", encoding="utf-8").read())
+run(open("examples/salam_donya.ppy", encoding="utf-8").read())
 ```
 
 ---
 
 🧪 نمونه‌کد
 
-فایل examples/salam_donya.fy:
+فایل examples/salam_donya.ppy:
 
 ```python
 چاپ("سلام دنیا")
@@ -34,9 +34,9 @@ run(open("examples/salam_donya.fy", encoding="utf-8").read())
 
 ---
 
-📚 درباره Fython
+📚 درباره ParsPy
 
-Fython | فایتون
+parspy | پارس‌پای
 یک زبان برنامه‌نویسی فارسی‌محور است که با استفاده از واژگان فارسی، کد را به پایتون ترجمه و اجرا می‌کند.  
 هدف این پروژه ساده‌سازی یادگیری برنامه‌نویسی برای فارسی‌زبانان و ایجاد بستری بومی برای توسعه نرم‌افزار است.
 
@@ -47,7 +47,7 @@ Fython | فایتون
 - ایمیل:
 -  fython.project@gmail.com  
 - کانال تلگرام:
-- https://t.me/FythonOfficia  
+- https://t.me/pars_py  
 - سازنده:
 -  https://t.me/aQa_PeTeR/129
 
