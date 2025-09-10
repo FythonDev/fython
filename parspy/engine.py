@@ -8,10 +8,10 @@ keywords = {
     "بازگرداندن": "return"
 }
 
-def translate(code):
+def translate(code: str) -> str:
     for fa, en in keywords.items():
         code = code.replace(fa, en)
     return code
 
-def run(code):
+def run(code: str) -> None:
     exec(translate(code))
